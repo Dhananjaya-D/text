@@ -5,4 +5,4 @@ git status
 git add . (add all giles)
 git commit -m "ex name"       m=main
 git push
-thank you
+thank you for ...
